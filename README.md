@@ -1,6 +1,6 @@
 # [Docker in a Weekend: 40 Practical Demos for DevOps Learners](https://links.stacksimplify.com/docker-in-a-weekend-40-practical-demos-for-devops)
 
-[![Image](gcp-gke-terraform-2.png "Docker in a Weekend: 40 Practical Demos for DevOps Learners")](https://links.stacksimplify.com/docker-in-a-weekend-40-practical-demos-for-devops)
+[![Image](docker-1.png "Docker in a Weekend: 40 Practical Demos for DevOps Learners")](https://links.stacksimplify.com/docker-in-a-weekend-40-practical-demos-for-devops)
 
 ## [Course Details](https://links.stacksimplify.com/docker-in-a-weekend-40-practical-demos-for-devops)
 - **Title:** [Docker in a Weekend: 40 Practical Demos for DevOps Learners](https://links.stacksimplify.com/docker-in-a-weekend-40-practical-demos-for-devops)
