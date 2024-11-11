@@ -1,12 +1,12 @@
-# [Docker in a Weekend: 40 Practical Demos for DevOps Learners](https://links.stacksimplify.com/)
+# [Docker in a Weekend: 40 Practical Demos for DevOps Learners](https://links.stacksimplify.com/docker-in-a-weekend-40-practical-demos-for-devops)
 
-[![Image](gcp-gke-terraform-2.png "Docker in a Weekend: 40 Practical Demos for DevOps Learners")](https://links.stacksimplify.com/)
+[![Image](gcp-gke-terraform-2.png "Docker in a Weekend: 40 Practical Demos for DevOps Learners")](https://links.stacksimplify.com/docker-in-a-weekend-40-practical-demos-for-devops)
 
-## [Course Details](https://links.stacksimplify.com/)
-- **Title:** [Docker in a Weekend: 40 Practical Demos for DevOps Learners](https://links.stacksimplify.com/)
+## [Course Details](https://links.stacksimplify.com/docker-in-a-weekend-40-practical-demos-for-devops)
+- **Title:** [Docker in a Weekend: 40 Practical Demos for DevOps Learners](https://links.stacksimplify.com/docker-in-a-weekend-40-practical-demos-for-devops)
 - **Sub Title:** Master Dockerfiles, Docker Build, Docker Compose, Multi-Container Apps, and Multi-Stage Builds with 40 Practical Demos
 
-## [Course Modules](https://links.stacksimplify.com/)
+## [Course Modules](https://links.stacksimplify.com/docker-in-a-weekend-40-practical-demos-for-devops)
 1. **Demo-01:** Install Docker Desktop, Sign Up to Docker Hub
 2. **Demo-02:** Docker Commands: `pull`, `run`, `exec`, `stop`, `start`, `rm`, `rmi`
 3. **Demo-03:** Build Docker Image and Push to Docker Hub
@@ -49,7 +49,7 @@
 40. **Demo-40:** Docker Multi-stage Builds
 
 
-## [Docker Concepts covered](https://links.stacksimplify.com/)
+## [Docker Concepts covered](https://links.stacksimplify.com/docker-in-a-weekend-40-practical-demos-for-devops)
 1. **Docker Installation and Setup**
    - Installing Docker Desktop
    - Signing up for Docker Hub
@@ -93,7 +93,7 @@
 14. **Docker Multi-stage Builds**
     - Creating optimized images through multi-stage builds
 
-## [What will students learn in your course?](https://links.stacksimplify.com/)
+## [What will students learn in your course?](https://links.stacksimplify.com/docker-in-a-weekend-40-practical-demos-for-devops)
 1. You will learn Docker basics with foundational commands and setup.
 2. You will learn to install Docker Desktop and sign up for Docker Hub.
 3. You will learn essential Docker commands: pulling, running, stopping, and managing containers.
@@ -117,24 +117,24 @@
 
 
 
-## [What are the requirements or prerequisites for taking your course?](https://links.stacksimplify.com/)
+## [What are the requirements or prerequisites for taking your course?](https://links.stacksimplify.com/docker-in-a-weekend-40-practical-demos-for-devops)
 - You don’t need prior Docker knowledge. We will start from the basics, with the first few demos covering foundational Docker concepts.
 - Access to a computer that supports Docker Desktop installation (Windows, Mac, or Linux) is required.
 - Some familiarity with concepts of software development and server environments will be helpful but is not mandatory.
 
 
-## [Who is this course for?](https://links.stacksimplify.com/)
+## [Who is this course for?](https://links.stacksimplify.com/docker-in-a-weekend-40-practical-demos-for-devops)
 - This course is designed for students and professionals who want to learn Docker from scratch and gain hands-on experience with containerization.
 - Developers who want to understand how to create, manage, and deploy Docker containers in real-world scenarios.
 - DevOps engineers and system administrators who are interested in mastering Docker to streamline application deployment and management.
 - Anyone aiming to build skills in containerized applications, multi-container environments, and Docker Compose.
 - Those interested in exploring advanced Docker concepts, such as multi-stage builds, Dockerfile optimization, and Docker Compose networking.
 
-## [Github Repositories used for this course](https://links.stacksimplify.com/)
+## [Github Repositories used for this course](https://links.stacksimplify.com/docker-in-a-weekend-40-practical-demos-for-devops)
 - [docker-in-a-weekend](https://github.com/stacksimplify/docker-in-a-weekend)
 - **Important Note:** Please go to these repositories and FORK these repositories and make use of them during the course.
 
-## [Each of my courses come with](https://links.stacksimplify.com)
+## [Each of my courses come with](https://links.stacksimplify.com/docker-in-a-weekend-40-practical-demos-for-devops)
 - Amazing Hands-on Step By Step Learning Experiences
 - Practical demos for each and every concept
 - Friendly Support in the Q&A section
