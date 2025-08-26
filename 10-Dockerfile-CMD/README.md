@@ -75,7 +75,9 @@ docker run --name my-cmd-demo1 -p 8080:80 -d demo10-dockerfile-cmd:v1
 docker exec -it my-cmd-demo1 ps aux
 
 # Expected Output:
-# You should see the Nginx process running with 'nginx: master process nginx -g daemon off;'
+# You should see the Nginx process running with 
+
+'nginx: master process nginx -g daemon off;'
 
 # Access the application in your browser
 http://localhost:8080
