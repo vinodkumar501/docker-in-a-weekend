@@ -81,6 +81,18 @@ docker exec -it my-cmd-demo1 ps aux
 
 # Access the application in your browser
 http://localhost:8080
+
+curl http://localhost:8081
+
+<!DOCTYPE html> 
+<html> 
+  <body style='background-color:rgb(227, 213, 180);'> 
+    <h1>Welcome to StackSimplify - CMD  Dockerfile Instruction</h1> 
+    <p>Learn technology through practical, real-world demos.</p> 
+    <p>Application Version: V1</p>     
+    <p>CMD: Specify default commands.</p>     
+  </body>
+</html>
 ```
 
 **Observations:**
